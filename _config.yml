@@ -1,0 +1,28 @@
+name: fly
+favicon: null
+layout_spectrum: 0.14218725077807903
+typography_spectrum: 0.6843096595257521
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8897566271480173
+  lightness: 0.47539426456205547
+  saturation: 0.4827390029095113
+  rhythmicContrast: 0.6995219162199646
+purpose: []
